@@ -1,0 +1,3 @@
+## REAL DATA HAS BEEN REMOVED DUE TO CONFIDENTIALITY! 
+id, city, category, country_code, created_at, price,furnished, total_size, registration_possible, washing_machine, tv, balcony, garden, terrace
+1,aaa,bbb,ccc,2016-03-12 12:31:31.000,190.00,1,NULL,NULL,0,1,no,no,no
