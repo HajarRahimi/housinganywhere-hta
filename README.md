@@ -66,7 +66,7 @@ answer the following:**
 
 **Q3. Suppose that you are an Analyst at HousingAnywhere, propose three examples of analyses that you would conduct to contribute to the business performance.**<br>
 
-📊 **Analysis 1**<br>
+📊 **Analysis 1: Supply-Gap Forecast**<br>
 ❓Where do we have high tenant demand but not enough listings, and how much revenue are we missing?<br>
 Answering to this question is important because we only make money when listings match tenant needs. For answering we can create a heatmap of high-demand, low-supply areas and estimate of missed revenue.<br>
 
@@ -75,7 +75,7 @@ Answering to this question is important because we only make money when listings
 - Calculate searches per available day/month.
 - Compare listed vs. booked prices to check if pricing is also an issue.<br>
 
-📊 **Analysis 2**<br> 
+📊 **Analysis 2: Tenant Booking Funnel Drop-Off**<br> 
 ❓Where do tenants drop off in the booking process, and why?<br>
 Answering this question is important because every small improvement in conversion leads to more bookings without extra marketing costs. To answer it, we can look at each step of the booking flow and find what causes users to leave.<br>
 
@@ -85,7 +85,7 @@ Answering this question is important because every small improvement in conversi
 - Check how each factor affects drop-off using simple models.
 - Test changes like reminders to landlords to see if they help.<br>
 
-📊 **Analysis 3**<br> 
+📊 **Analysis 3: Landlord Lifetime Value & Churn Model**<br> 
 ❓Which landlords might leave the platform soon, and how can we keep them?<br>
 Answering this question is important because keeping landlords is cheaper than finding new ones, and helps maintain supply. We can predict who is at risk and take action to keep them.<br>
 
@@ -104,7 +104,7 @@ Answering this question is important because keeping landlords is cheaper than f
 **c.** Briefly describe how you would approach this analysis.<br>
 **d.** Provide a list of recommendations or outcomes that would come from the analysis.<br>
 
-🌞 I will choose analysis 3: “tenant demand vs. available supply”.<br>
+🌞 I will choose analysis 1: “Supply-Gap Forecast”.<br>
 **a. What data would you require?**<br>
 🧾 Demand data (from tenant activity logs):<br>
 - tenant_id
